@@ -4,3 +4,5 @@ lib/
 .DS_STORE
 .Python
 *.pyc
+.idea/
+src/EduSys/__pycache__/
